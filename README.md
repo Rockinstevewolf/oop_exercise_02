@@ -8,5 +8,5 @@ in bash:
 - or
 - "./exercise_02 < test_01.txt" or "./exercise_02 < test_02.txt" to use standart tests
 
-more info:
+more info(in Russian):
 - report.docx
